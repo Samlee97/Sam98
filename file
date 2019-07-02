@@ -1,0 +1,11 @@
+git init
+git clone
+git revert
+git branch
+git add
+git push
+git checkout
+git log
+git status
+git config:wq
+
